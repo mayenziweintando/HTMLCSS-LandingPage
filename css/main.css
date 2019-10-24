@@ -70,21 +70,19 @@ section {
 
 .btn {
     cursor: pointer;
-    border: none;
+    border: 0;
     padding: 6px 12px;
     border-radius: 3px;
     line-height: 1.4;
 }
 
-.btn-default, .btn-primary {
-    color: white;
-}
-
 .btn-default {
+    color: white;
     background-color: #faa541;
 }
 
 .btn-primary {
+    color: white;
     background-color: #364147;
 }
 
@@ -96,15 +94,13 @@ section {
     line-height: 1.4;
 }
 
-.text-light, .text-secondary {
-    font-size: 30px;
-}
-
 .text-light {
+    font-size: 30px;
     color: #a0a0a0;
 }
 
 .text-secondary {
+    font-size: 30px;
     color: #faa541;
 }
 
